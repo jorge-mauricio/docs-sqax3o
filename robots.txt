@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ve21hg.qualitia.app/sitemap.xml
